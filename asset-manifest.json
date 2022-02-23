@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.a878fe1c.css",
-    "main.js": "/static/js/main.8c5b6974.js",
-    "static/media/manrope-latin-variable-wghtOnly-normal.woff2": "/static/media/manrope-latin-variable-wghtOnly-normal.6b59023abd66a1cc61d7.woff2",
-    "static/media/manrope-latin-ext-variable-wghtOnly-normal.woff2": "/static/media/manrope-latin-ext-variable-wghtOnly-normal.ddb2741db966000e7553.woff2",
-    "static/media/manrope-cyrillic-variable-wghtOnly-normal.woff2": "/static/media/manrope-cyrillic-variable-wghtOnly-normal.9851c2469f3b96b4e2d8.woff2",
-    "static/media/manrope-greek-variable-wghtOnly-normal.woff2": "/static/media/manrope-greek-variable-wghtOnly-normal.0ac792530169d1dc7712.woff2",
-    "static/media/manrope-vietnamese-variable-wghtOnly-normal.woff2": "/static/media/manrope-vietnamese-variable-wghtOnly-normal.cfa8c68adae9c635a7e7.woff2",
-    "static/media/manrope-cyrillic-ext-variable-wghtOnly-normal.woff2": "/static/media/manrope-cyrillic-ext-variable-wghtOnly-normal.263c4bca11e8a3f6f7f4.woff2",
-    "index.html": "/index.html",
-    "static/media/icon-dice.svg": "/static/media/icon-dice.08691e4c24c11b5ba564e06b1f6bcbf3.svg",
-    "static/media/pattern-divider-desktop.svg": "/static/media/pattern-divider-desktop.ed9685263f6b47d21c8848f7d8bdd10e.svg",
-    "static/media/pattern-divider-mobile.svg": "/static/media/pattern-divider-mobile.aca38726412164df099c43d4f2fed72e.svg",
-    "main.a878fe1c.css.map": "/static/css/main.a878fe1c.css.map",
-    "main.8c5b6974.js.map": "/static/js/main.8c5b6974.js.map"
+    "main.css": "/advice-generator/static/css/main.b8c51c43.css",
+    "main.js": "/advice-generator/static/js/main.48df6d31.js",
+    "static/media/manrope-latin-variable-wghtOnly-normal.woff2": "/advice-generator/static/media/manrope-latin-variable-wghtOnly-normal.6b59023abd66a1cc61d7.woff2",
+    "static/media/manrope-latin-ext-variable-wghtOnly-normal.woff2": "/advice-generator/static/media/manrope-latin-ext-variable-wghtOnly-normal.ddb2741db966000e7553.woff2",
+    "static/media/manrope-cyrillic-variable-wghtOnly-normal.woff2": "/advice-generator/static/media/manrope-cyrillic-variable-wghtOnly-normal.9851c2469f3b96b4e2d8.woff2",
+    "static/media/manrope-greek-variable-wghtOnly-normal.woff2": "/advice-generator/static/media/manrope-greek-variable-wghtOnly-normal.0ac792530169d1dc7712.woff2",
+    "static/media/manrope-vietnamese-variable-wghtOnly-normal.woff2": "/advice-generator/static/media/manrope-vietnamese-variable-wghtOnly-normal.cfa8c68adae9c635a7e7.woff2",
+    "static/media/manrope-cyrillic-ext-variable-wghtOnly-normal.woff2": "/advice-generator/static/media/manrope-cyrillic-ext-variable-wghtOnly-normal.263c4bca11e8a3f6f7f4.woff2",
+    "index.html": "/advice-generator/index.html",
+    "static/media/icon-dice.svg": "/advice-generator/static/media/icon-dice.08691e4c24c11b5ba564e06b1f6bcbf3.svg",
+    "static/media/pattern-divider-desktop.svg": "/advice-generator/static/media/pattern-divider-desktop.ed9685263f6b47d21c8848f7d8bdd10e.svg",
+    "static/media/pattern-divider-mobile.svg": "/advice-generator/static/media/pattern-divider-mobile.aca38726412164df099c43d4f2fed72e.svg",
+    "main.b8c51c43.css.map": "/advice-generator/static/css/main.b8c51c43.css.map",
+    "main.48df6d31.js.map": "/advice-generator/static/js/main.48df6d31.js.map"
   },
   "entrypoints": [
-    "static/css/main.a878fe1c.css",
-    "static/js/main.8c5b6974.js"
+    "static/css/main.b8c51c43.css",
+    "static/js/main.48df6d31.js"
   ]
 }
