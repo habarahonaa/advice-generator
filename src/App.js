@@ -35,7 +35,6 @@ export default class App extends React.Component {
   updateAdvice = async () => {
     try {
       const { advice, id } = await this.getAdvice();
-      console.log(advice);
       this.setState({
         advice: advice,
         adviceID: id,
