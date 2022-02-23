@@ -10,5 +10,5 @@ const fetchAdvice = async () => {
     console.log(error);
   }
 };
-
+// TODO
 export default fetchAdvice;
