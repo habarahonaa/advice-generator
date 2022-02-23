@@ -34,7 +34,7 @@ const AdviceNumber = styled.p`
   text-transform: uppercase;
 `;
 
-const Advice = styled.p`
+const Advice = styled.h1`
   color: #cee3e9;
   font-family: "Manrope", sans-serif;
   font-size: 28px;
@@ -80,7 +80,7 @@ export const AdviceCard = ({ ...props }) => {
       <Divider>
         {window.innerWidth < 768 ? <MobileDivider /> : <DesktopDivider />}
       </Divider>
-      <DiceButton onClick={props.handleClick}>
+      <DiceButton aria-label="New quote" onClick={props.handleClick}>
         <DiceIcon />
       </DiceButton>
     </Card>
