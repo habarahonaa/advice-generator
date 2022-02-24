@@ -64,8 +64,9 @@ const DiceButton = styled.button`
   position: relative;
   top: 55px;
   &:hover {
-    animation-name: ${pulse};
     animation-duration: 1.5s;
+    animation-name: ${pulse};
+    cursor: pointer;
   }
   @media (min-width: 768px) {
     top: 35px;
